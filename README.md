@@ -18,7 +18,7 @@ The project is a simple implementation of Hill Cipher Algorithm in python.
 
 ## Usage
 ```bash
-> python hill_cipher.py
-> python Hill_Cipher_GUI.py
+$ python hill_cipher.py
+$ python Hill_Cipher_GUI.py
 ```
 
