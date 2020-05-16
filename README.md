@@ -6,12 +6,15 @@ Refer <a href='https://crypto.interactive-maths.com/hill-cipher.html'>this</a> f
 ## About the project
 Problem statement:
 ```
-Using the word "temp" as the key, simulate the secure communication between security troops located away from each other, 
-using Hill cipher.
+Using the word "temp" as the key, simulate the secure communication between security troops located away from 
+each other, using Hill cipher.
 ```
 
 The project is a simple implementation of Hill Cipher Algorithm in python.
 
 - hill_cipher_gui.py contains the complete implementation of Hill Cipher wrapped in a Tkinter GUI
 
-- hill_cipher.py contains the actual logic of the Hill Cipher encryption/decryption
+- hill_cipher.py contains the actual logic of the Hill Cipher encryption/decryption and can be executed independently.
+
+## Usage
+
