@@ -17,4 +17,8 @@ The project is a simple implementation of Hill Cipher Algorithm in python.
 - hill_cipher.py contains the actual logic of the Hill Cipher encryption/decryption and can be executed independently.
 
 ## Usage
+```bash
+> python hill_cipher.py
+> python Hill_Cipher_GUI.py
+```
 
