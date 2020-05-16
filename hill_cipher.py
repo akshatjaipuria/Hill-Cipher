@@ -113,7 +113,6 @@ if __name__ == "__main__":
 
     #removing spaces
     message = message.replace(" ", "")
-    mes_len = len(message)
 
     #padding, if required
     message_padded = pad_message(message, n)
